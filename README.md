@@ -1,2 +1,5 @@
-# WPM-Calculator
-I made a simple program using C# that calculates how many words you can get in a minute!
+# WPM-Calculator - How To Install
+Click on `bin`-> `Release` -> `WPM Calculator` then you will be able to install it.
+
+# This is not a virus
+dont be worried if an "unsafe app" pop up window showed up. The program is 100% safe :)
