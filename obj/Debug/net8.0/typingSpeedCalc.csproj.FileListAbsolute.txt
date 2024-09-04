@@ -1,0 +1,14 @@
+C:\Users\ziada\source\repos\Projects\typingSpeedCalc\obj\Debug\net8.0\typingSpeedCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziada\source\repos\Projects\typingSpeedCalc\obj\Debug\net8.0\typingSpeedCalc.AssemblyInfoInputs.cache
+C:\Users\ziada\source\repos\Projects\typingSpeedCalc\obj\Debug\net8.0\typingSpeedCalc.AssemblyInfo.cs
+C:\Users\ziada\source\repos\Projects\typingSpeedCalc\obj\Debug\net8.0\typingSpeedCalc.csproj.CoreCompileInputs.cache
+C:\Users\ziada\source\repos\Projects\typingSpeedCalc\bin\Debug\net8.0\typingSpeedCalc.exe
+C:\Users\ziada\source\repos\Projects\typingSpeedCalc\bin\Debug\net8.0\typingSpeedCalc.deps.json
+C:\Users\ziada\source\repos\Projects\typingSpeedCalc\bin\Debug\net8.0\typingSpeedCalc.runtimeconfig.json
+C:\Users\ziada\source\repos\Projects\typingSpeedCalc\bin\Debug\net8.0\typingSpeedCalc.dll
+C:\Users\ziada\source\repos\Projects\typingSpeedCalc\bin\Debug\net8.0\typingSpeedCalc.pdb
+C:\Users\ziada\source\repos\Projects\typingSpeedCalc\obj\Debug\net8.0\typingSpeedCalc.dll
+C:\Users\ziada\source\repos\Projects\typingSpeedCalc\obj\Debug\net8.0\refint\typingSpeedCalc.dll
+C:\Users\ziada\source\repos\Projects\typingSpeedCalc\obj\Debug\net8.0\typingSpeedCalc.pdb
+C:\Users\ziada\source\repos\Projects\typingSpeedCalc\obj\Debug\net8.0\typingSpeedCalc.genruntimeconfig.cache
+C:\Users\ziada\source\repos\Projects\typingSpeedCalc\obj\Debug\net8.0\ref\typingSpeedCalc.dll
