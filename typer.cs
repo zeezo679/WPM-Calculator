@@ -72,7 +72,7 @@ namespace typingSpeedCalc
                 Console.WriteLine();
                 int kps = 0, cKps = 0;
 
-                var exludedKeys = new HashSet<ConsoleKey>() { //creating a set of excluded keys to enhance readability
+                var exludedKeys = new HashSet<ConsoleKey>() { 
                 ConsoleKey.Tab,
                 ConsoleKey.Backspace,
                 ConsoleKey.Enter,
